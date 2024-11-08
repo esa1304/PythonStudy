@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "a0836adbf83c24ff",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "62918fcc2ed5d165",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          }
-        ]
-      },
-      {
         "id": "86226ff592605871",
         "type": "tabs",
         "children": [
@@ -148,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Добро пожаловать.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура"
             }
           }
         ]
@@ -172,7 +154,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "9ccbe74301d61ff5",
+  "active": "5b4125fbad9c2e1b",
   "lastOpenFiles": [
     "Добро пожаловать.md"
   ]
